@@ -79,3 +79,7 @@ In Python, coordinates are `(lon, lat)` tuples, matching x, y order. The CLI's t
 ## Credits
 
 Written by [Claude](https://claude.com/claude-code), Anthropic's AI model, working with [@aaronmc135](https://github.com/aaronmc135).
+
+## License
+
+[MIT](LICENSE)
